@@ -19,6 +19,9 @@ body {
   border: 5px solid #fff;
   width: 70%;
 }
+#main h1{
+  text-transform: upppercase;
+}
 #main p {
   font-weight: lighter;
   font-style: italic;
