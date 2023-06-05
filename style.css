@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color: #000;
+  color: #fff;
+}
+body {
+  font-family: "Libre Baskerville", serif;
+}
+#main {
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 25%;
+  text-align: center;
+}
+#main img {
+  border: 5px solid #fff;
+  width: 70%;
+}
+#main p {
+  font-weight: lighter;
+  font-style: italic;
+  padding-top: 10px;
+}
